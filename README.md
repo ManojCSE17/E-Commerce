@@ -16,6 +16,9 @@ This is a Women’s Clothing E-Commerce dataset revolving around the reviews wri
 #### Department Name: Categorical name of the product department name.
 #### Class Name: Categorical name of the product class name.
 
+# Dataset
+<a href="https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews">You can find the dataset here</a>
+
 # Analysis:
 
 (1)Describing the data <br>
