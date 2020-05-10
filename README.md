@@ -19,12 +19,12 @@ This is a Women’s Clothing E-Commerce dataset revolving around the reviews wri
 # Analysis:
 
 (1)Describing the data <br>
-        Descriptive statistics, data type, etc. <br>
+&emsp; &emsp; &emsp; Descriptive statistics, data type, etc. <br>
 (2)Analyzing the text comment/ review <br> 
 (3)Converting the ratings into 2 classes <br>
-        Class: Bad when Rating <=3 <br>
-        Class: Good otherwise <br>
+&emsp; &emsp; &emsp; Class: Bad when Rating <=3 <br>
+&emsp; &emsp; &emsp; Class: Good otherwise <br>
 (4)Developing a model to predict the Rating class (created above) <br>
-        Focus on steps to build a model <br>
-        Which algorithm can be used <br>
+&emsp; &emsp; &emsp; Focus on steps to build a model <br>
+&emsp; &emsp; &emsp; Which algorithm can be used <br>
 (5)Sharing the findings of the model <br>
